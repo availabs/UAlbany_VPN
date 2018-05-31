@@ -1,6 +1,6 @@
 # Instructions
 
-0. `installDependencies.sh`
+0. `./installDependencies.sh`
 1. Change the VPNUSER variable in ualbanyVPNUp.sh to your UAlbany NetID
 2. Create the VPN Tunnel: `./ualbanyVPNUp.sh`
 2. Close the VPN Tunnel: `./ualbanyVPNDown.sh`
